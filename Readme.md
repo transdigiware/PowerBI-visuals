@@ -1,4 +1,4 @@
-> This documentation is deprecated. Please use new [PowerBI Custom Visuals](https://microsoft.github.io/PowerBI-visuals/)  site instead.
+> This documentation is deprecated. Please use new [official documentation of Power BI Visuals](https://docs.microsoft.com/en-us/power-bi/developer/power-bi-custom-visuals)  site instead.
 
 # Power BI Visuals
 
