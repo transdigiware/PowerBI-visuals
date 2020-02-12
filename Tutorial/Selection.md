@@ -1,6 +1,6 @@
 # Adding Selection and Interactions with Other Visuals
 
-**The article is outdated, [read updated article about selections in official documentation of Power BI.](https://docs.microsoft.com/power-bi/developer/visuals/selection-apil)**
+**The article is outdated, [read updated article about selections in official documentation of Power BI.](https://docs.microsoft.com/power-bi/developer/visuals/selection-api)**
 
 Selection provides the ability for the user to interact with your visual and also interact with other visuals.
 
